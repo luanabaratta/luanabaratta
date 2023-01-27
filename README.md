@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luanabaratta
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN and Spring Boot
+- 🌱 I’m currently learning MERN, Spring Boot and Angular
 - 📫 How to reach me luanabaratta.technology@gmail.com
 
 <!---
