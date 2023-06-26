@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luanabaratta
 - 👀 I’m interested in Web Development
-- 🌱 I’m a React.js, Angular, Spring Boot and Node.js developer.
+- 🌱 I’m a React, Angular, Spring Boot and Node.js developer.
 - 📫 How to reach me luanabaratta.technology@gmail.com
 
 <!---
