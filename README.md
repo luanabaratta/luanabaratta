@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luanabaratta
 - 👀 I’m interested in Web Development
-- 🌱 I’m a frontend developer
+- 🌱 I’m a fullstack developer
 - 📫 How to reach me luanabaratta.technology@gmail.com
 
 <!---
